@@ -27,7 +27,7 @@
 ## 📸 Screenshots
 ```markdown
 ### 🏠 Home Page
-![Home](./screenshots/home1.png) ![Home(./screenshots/home2.png) (./screenshots/home3.png) (./screenshots/home4.png)
+![Home](./screenshots/home1.png) ![Home](./screenshots/home2.png) (./screenshots/home3.png) (./screenshots/home4.png)
 
 ### Recipes
 ![Recipes](./screenshots/Recipe1.png) (./screenshots/Recipe2.png)
