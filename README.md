@@ -38,8 +38,8 @@
 ### 🍽️ Recipes
 
 <p float="left">
-  <img src="./screenshots/Recipe1.png" width="250"/>
-  <img src="./screenshots/Recipe2.png" width="250"/>
+  <img src="./screenshots/Recipe 1.png" width="250"/>
+  <img src="./screenshots/Recipe 2.png" width="250"/>
 </p>
 
 ### 📖 About Page
